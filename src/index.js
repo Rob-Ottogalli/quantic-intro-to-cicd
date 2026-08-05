@@ -3,3 +3,4 @@ function sayHi(name) {
 }
 // test
 module.exports = sayHi
+// trivial edit
